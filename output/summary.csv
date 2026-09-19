@@ -1,0 +1,5 @@
+series,name,window,n,mape_vintage,mape_revised,gap_pp,leak_pct
+CSUSHPINSA,Case-Shiller national home price index,2015-02 to 2024-06,113,5.671,5.649,0.022,0.4
+HOUST,Housing starts,2005-04 to 2024-06,230,21.591,22.115,-0.525,-2.4
+HSN1F,New one-family houses sold,2005-04 to 2024-06,229,25.596,23.955,1.641,6.4
+PERMIT,Building permits,2005-04 to 2024-06,231,19.44,19.295,0.146,0.7

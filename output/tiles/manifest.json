@@ -1,0 +1,262 @@
+{
+  "source": "Zillow ZHVI (all homes, smoothed, seasonally adjusted), ZIP level",
+  "source_url": "https://files.zillowstatic.com/research/public_csvs/zhvi/Zip_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
+  "geo_count": 26268,
+  "period_range": [
+    "2000-01",
+    "2026-08"
+  ],
+  "index_gz_bytes": 59895,
+  "payloads": [
+    {
+      "file": "zhvi_2024-09.uint16.gz",
+      "period": "2024-09",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.470703125,
+      "scale": 1000,
+      "missing_sentinel": 0
+    },
+    {
+      "file": "zhvi_2024-10.uint16.gz",
+      "period": "2024-10",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.4912109375,
+      "scale": 1000,
+      "missing_sentinel": 0
+    },
+    {
+      "file": "zhvi_2024-11.uint16.gz",
+      "period": "2024-11",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.5029296875,
+      "scale": 1000,
+      "missing_sentinel": 0
+    },
+    {
+      "file": "zhvi_2024-12.uint16.gz",
+      "period": "2024-12",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.548828125,
+      "scale": 1000,
+      "missing_sentinel": 0
+    },
+    {
+      "file": "zhvi_2025-01.uint16.gz",
+      "period": "2025-01",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.5322265625,
+      "scale": 1000,
+      "missing_sentinel": 0
+    },
+    {
+      "file": "zhvi_2025-02.uint16.gz",
+      "period": "2025-02",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.517578125,
+      "scale": 1000,
+      "missing_sentinel": 0
+    },
+    {
+      "file": "zhvi_2025-03.uint16.gz",
+      "period": "2025-03",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.52734375,
+      "scale": 1000,
+      "missing_sentinel": 0
+    },
+    {
+      "file": "zhvi_2025-04.uint16.gz",
+      "period": "2025-04",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.5869140625,
+      "scale": 1000,
+      "missing_sentinel": 0
+    },
+    {
+      "file": "zhvi_2025-05.uint16.gz",
+      "period": "2025-05",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.5107421875,
+      "scale": 1000,
+      "missing_sentinel": 0
+    },
+    {
+      "file": "zhvi_2025-06.uint16.gz",
+      "period": "2025-06",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.4970703125,
+      "scale": 1000,
+      "missing_sentinel": 0
+    },
+    {
+      "file": "zhvi_2025-07.uint16.gz",
+      "period": "2025-07",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.5400390625,
+      "scale": 1000,
+      "missing_sentinel": 0
+    },
+    {
+      "file": "zhvi_2025-08.uint16.gz",
+      "period": "2025-08",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.5224609375,
+      "scale": 1000,
+      "missing_sentinel": 0
+    },
+    {
+      "file": "zhvi_2025-09.uint16.gz",
+      "period": "2025-09",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.5341796875,
+      "scale": 1000,
+      "missing_sentinel": 0
+    },
+    {
+      "file": "zhvi_2025-10.uint16.gz",
+      "period": "2025-10",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.5341796875,
+      "scale": 1000,
+      "missing_sentinel": 0
+    },
+    {
+      "file": "zhvi_2025-11.uint16.gz",
+      "period": "2025-11",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.5654296875,
+      "scale": 1000,
+      "missing_sentinel": 0
+    },
+    {
+      "file": "zhvi_2025-12.uint16.gz",
+      "period": "2025-12",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.5947265625,
+      "scale": 1000,
+      "missing_sentinel": 0
+    },
+    {
+      "file": "zhvi_2026-01.uint16.gz",
+      "period": "2026-01",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.6279296875,
+      "scale": 1000,
+      "missing_sentinel": 0
+    },
+    {
+      "file": "zhvi_2026-02.uint16.gz",
+      "period": "2026-02",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.6474609375,
+      "scale": 1000,
+      "missing_sentinel": 0
+    },
+    {
+      "file": "zhvi_2026-03.uint16.gz",
+      "period": "2026-03",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.6064453125,
+      "scale": 1000,
+      "missing_sentinel": 0
+    },
+    {
+      "file": "zhvi_2026-04.uint16.gz",
+      "period": "2026-04",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.6201171875,
+      "scale": 1000,
+      "missing_sentinel": 0
+    },
+    {
+      "file": "zhvi_2026-05.uint16.gz",
+      "period": "2026-05",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.6044921875,
+      "scale": 1000,
+      "missing_sentinel": 0
+    },
+    {
+      "file": "zhvi_2026-06.uint16.gz",
+      "period": "2026-06",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.6171875,
+      "scale": 1000,
+      "missing_sentinel": 0
+    },
+    {
+      "file": "zhvi_2026-07.uint16.gz",
+      "period": "2026-07",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.6171875,
+      "scale": 1000,
+      "missing_sentinel": 0
+    },
+    {
+      "file": "zhvi_2026-08.uint16.gz",
+      "period": "2026-08",
+      "dtype": "uint16",
+      "n": 26268,
+      "raw_kb": 51.3046875,
+      "gz_kb": 37.6728515625,
+      "scale": 1000,
+      "missing_sentinel": 0
+    }
+  ],
+  "float32_comparison": {
+    "file": "zhvi_2026-08.float32.gz",
+    "period": "2026-08",
+    "dtype": "float32",
+    "n": 26268,
+    "raw_kb": 102.609375,
+    "gz_kb": 90.5556640625,
+    "scale": 1,
+    "missing_sentinel": "NaN"
+  }
+}

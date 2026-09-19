@@ -1,0 +1,17 @@
+{
+  "zillow_zips": 26268,
+  "zctas": 33791,
+  "zips_with_no_zcta": 7,
+  "pct_dropped": 0.03,
+  "zctas_spanning_counties": 10186,
+  "pct_zctas_multi_county": 30.14,
+  "max_counties_one_zcta": 6,
+  "naive_rows": 26261,
+  "weighted_rows": 37981,
+  "naive_county_wrong": 4940,
+  "examples_many_county": {
+    "39573": 6,
+    "68823": 6,
+    "66736": 5
+  }
+}

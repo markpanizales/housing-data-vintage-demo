@@ -1,0 +1,6 @@
+# Rebuilt by the scripts; 128 MB of vintages and a 6.8 MB crosswalk cache.
+data/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
